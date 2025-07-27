@@ -2,3 +2,8 @@ body {
   background-color: rgb(18, 23, 12);
   color: rgb(240, 240, 240);
 }
+h1 {
+  text-align: center;
+  font-size: 1.5em;
+  letter-spacing: 20px;
+}
